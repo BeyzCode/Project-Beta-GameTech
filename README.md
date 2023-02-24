@@ -1,1 +1,1 @@
-# Project-Beta-GameTech
+# Project Beta
