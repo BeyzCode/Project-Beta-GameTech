@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 80d3465eabfbdd9419668381562ad0e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9104139646437881418
+    second: Spirte Animation MC 1_0
+  - first:
+      213: 923736911001503002
+    second: Spirte Animation MC 1_1
+  - first:
+      213: 5239495951986547604
+    second: Spirte Animation MC 1_2
+  - first:
+      213: -779724928027593602
+    second: Spirte Animation MC 1_3
+  - first:
+      213: -5922181571522489622
+    second: Spirte Animation MC 1_4
+  - first:
+      213: -1643997551093713395
+    second: Spirte Animation MC 1_5
+  - first:
+      213: 3159161992803430490
+    second: Spirte Animation MC 1_6
+  - first:
+      213: -1430829958828389309
+    second: Spirte Animation MC 1_7
+  - first:
+      213: 3760608682081805373
+    second: Spirte Animation MC 1_8
+  - first:
+      213: -8067527354462229479
+    second: Spirte Animation MC 1_9
+  - first:
+      213: -3894840777458988853
+    second: Spirte Animation MC 1_10
+  - first:
+      213: 4451894590055897957
+    second: Spirte Animation MC 1_11
+  - first:
+      213: -7081763090368085743
+    second: Spirte Animation MC 1_12
+  - first:
+      213: 978719195590350120
+    second: Spirte Animation MC 1_13
+  - first:
+      213: 7782545109269922024
+    second: Spirte Animation MC 1_14
+  - first:
+      213: -8017031733423917282
+    second: Spirte Animation MC 1_15
+  - first:
+      213: -8574682327264537048
+    second: Spirte Animation MC 1_16
+  - first:
+      213: -4474458000604411573
+    second: Spirte Animation MC 1_17
+  - first:
+      213: -1152291338329007406
+    second: Spirte Animation MC 1_18
+  - first:
+      213: 5063207872982646618
+    second: Spirte Animation MC 1_19
+  - first:
+      213: -5422380248889585591
+    second: Spirte Animation MC 1_20
+  - first:
+      213: 6259942808422575027
+    second: Spirte Animation MC 1_21
+  - first:
+      213: -7512603334865520463
+    second: Spirte Animation MC 1_22
+  - first:
+      213: -7274760979580525821
+    second: Spirte Animation MC 1_23
+  - first:
+      213: -1329703795943708225
+    second: Spirte Animation MC 1_24
+  - first:
+      213: 607714887925628086
+    second: Spirte Animation MC 1_25
+  - first:
+      213: -6603417300617863381
+    second: Spirte Animation MC 1_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3299
+        width: 862
+        height: 1116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b514ceecd66b840800000000000000
+      internalID: 5239495951986547604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2160
+        width: 878
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0c0abbbba42ce0800000000000000
+      internalID: -1430829958828389309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 6357
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd3c1ea8e48cd30800000000000000
+      internalID: 4451894590055897957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_15
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3298
+        width: 869
+        height: 1111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17bb305d18cdb090800000000000000
+      internalID: -8017031733423917282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_16
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3308
+        width: 863
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826d39d9adb900980800000000000000
+      internalID: -8574682327264537048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_17
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 3301
+        width: 872
+        height: 1115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c197b72887e1c0800000000000000
+      internalID: -4474458000604411573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_18
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 3308
+        width: 876
+        height: 1108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad325022d3200f0800000000000000
+      internalID: -1152291338329007406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_19
+      rect:
+        serializedVersion: 2
+        x: 5035
+        y: 3318
+        width: 863
+        height: 1098
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f77150cb0244640800000000000000
+      internalID: 5063207872982646618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_20
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 3318
+        width: 863
+        height: 1101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94097d384e5dfb4b0800000000000000
+      internalID: -5422380248889585591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_21
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2160
+        width: 873
+        height: 1079
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe94251d8cfd650800000000000000
+      internalID: 6259942808422575027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_22
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2160
+        width: 870
+        height: 1073
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fce6021fddb790800000000000000
+      internalID: -7512603334865520463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_23
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2163
+        width: 881
+        height: 1070
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303ea32be6bda0b90800000000000000
+      internalID: -7274760979580525821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_24
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2154
+        width: 862
+        height: 1085
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb969425171fb8de0800000000000000
+      internalID: -1329703795943708225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_25
+      rect:
+        serializedVersion: 2
+        x: 5044
+        y: 2160
+        width: 878
+        height: 1073
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf58388790f6800800000000000000
+      internalID: 607714887925628086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirte Animation MC 1_26
+      rect:
+        serializedVersion: 2
+        x: 5963
+        y: 2165
+        width: 861
+        height: 1068
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fd00593f2fb54a0800000000000000
+      internalID: -6603417300617863381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

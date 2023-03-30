@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class MCControl : MonoBehaviour
 {
     private Rigidbody2D rb;
+    private Animator anim;
     private int MoveSpeed, Jump;
     private bool MoveRight;
 
@@ -28,6 +29,7 @@ public class MCControl : MonoBehaviour
     IEnumerator Right()
     {
         yield return new WaitForSeconds(2f);
+        //anim.Play("MC_Right", 0, 0.0f);
         MoveRight = true;
     }
 
@@ -36,7 +38,8 @@ public class MCControl : MonoBehaviour
     {
         if(MoveRight)
         {
-            transform.Translate(Vector2.left * Time.deltaTime * MoveSpeed);
+            transform.Translate(Vector2.right * Time.deltaTime * MoveSpeed);
+            //anim.Play("MC_Right", 0, 0.0f);
         }
     }
 
