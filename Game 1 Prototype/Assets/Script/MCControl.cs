@@ -16,6 +16,7 @@ public class MCControl : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
         MoveSpeed = 4;
         Jump = 8;
         StartCoroutine(Right());
@@ -29,17 +30,15 @@ public class MCControl : MonoBehaviour
     IEnumerator Right()
     {
         yield return new WaitForSeconds(2f);
-        //anim.Play("MC_Right", 0, 0.0f);
         MoveRight = true;
     }
-
 
     public void Update()
     {
         if(MoveRight)
         {
             transform.Translate(Vector2.right * Time.deltaTime * MoveSpeed);
-            //anim.Play("MC_Right", 0, 0.0f);
+            anim.SetBool("MC_Run",true);
         }
     }
 

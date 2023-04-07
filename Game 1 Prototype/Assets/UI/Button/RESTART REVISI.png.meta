@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4dd9dd67f265fa443b981f7594a3dc4b
+guid: 5d0fbd5ead418044f9c8761b65dbfdac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6191466713838857502
-    second: Button exit_0
+      213: 6743734328370520213
+    second: RESTART REVISI_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -50,7 +50,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 215, y: 85, z: 177, w: 242}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -142,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Button exit_0
+      name: RESTART REVISI_0
       rect:
         serializedVersion: 2
-        x: 220
-        y: 88
-        width: 266
-        height: 44
+        x: 273
+        y: 112
+        width: 121
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,8 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d25052c228ce550800000000000000
-      internalID: 6191466713838857502
+      spriteID: 590e12e44ae869d50800000000000000
+      internalID: 6743734328370520213
       vertices: []
       indices: 
       edges: []
