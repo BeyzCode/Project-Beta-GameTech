@@ -1,7 +1,70 @@
 fileFormatVersion: 2
 guid: 0f00e66f5113feb4b930039776d7587f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 86353647942922136
+    second: Sprite Animation Enemy 1_0
+  - first:
+      213: -4798318164920003091
+    second: Sprite Animation Enemy 1_2
+  - first:
+      213: 7261615089762508274
+    second: Sprite Animation Enemy 1_3
+  - first:
+      213: -2349313734232495016
+    second: Sprite Animation Enemy 1_4
+  - first:
+      213: 33731971227368508
+    second: Sprite Animation Enemy 1_5
+  - first:
+      213: 1943814047625695493
+    second: Sprite Animation Enemy 1_6
+  - first:
+      213: -2731899762732760231
+    second: Sprite Animation Enemy 1_7
+  - first:
+      213: 3761032925119582257
+    second: Sprite Animation Enemy 1_13
+  - first:
+      213: 1161488772645124899
+    second: Sprite Animation Enemy 1_16
+  - first:
+      213: 1837055575515688414
+    second: Sprite Animation Enemy 1_17
+  - first:
+      213: 6770302398585250028
+    second: Sprite Animation Enemy 1_18
+  - first:
+      213: -5471873943548896602
+    second: Sprite Animation Enemy 1_19
+  - first:
+      213: -8760306953888678387
+    second: Sprite Animation Enemy 1_20
+  - first:
+      213: 8513953534394406503
+    second: Sprite Animation Enemy 1_21
+  - first:
+      213: 6158313545876018308
+    second: Sprite Animation Enemy 1_24
+  - first:
+      213: 3475451331071492575
+    second: Sprite Animation Enemy 1_26
+  - first:
+      213: -6081363302539392551
+    second: Sprite Animation Enemy 1_27
+  - first:
+      213: -2582566368167621692
+    second: Sprite Animation Enemy 1_28
+  - first:
+      213: 4386958863548808297
+    second: Sprite Animation Enemy 1_29
+  - first:
+      213: 3850037776541509811
+    second: Sprite Animation Enemy 1_30
+  - first:
+      213: 9140085073699875909
+    second: Sprite Animation Enemy 1_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -137,7 +200,448 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2978
+        width: 711
+        height: 1392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f62be6f2ac23100800000000000000
+      internalID: 86353647942922136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_2
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 3041
+        width: 712
+        height: 1329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de593a43d03f86db0800000000000000
+      internalID: -4798318164920003091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_3
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 3062
+        width: 712
+        height: 1289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd19e0537076c460800000000000000
+      internalID: 7261615089762508274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_4
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 3041
+        width: 716
+        height: 1329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c202d1b9f856fd0800000000000000
+      internalID: -2349313734232495016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_5
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3044
+        width: 782
+        height: 1326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb4929c07d77000800000000000000
+      internalID: 33731971227368508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_6
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 3038
+        width: 716
+        height: 1330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d42ad390d9fa10800000000000000
+      internalID: 1943814047625695493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_7
+      rect:
+        serializedVersion: 2
+        x: 6447
+        y: 3062
+        width: 707
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530758d3a7561ad0800000000000000
+      internalID: -2731899762732760231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 781
+        height: 1275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301d42c48fd13430800000000000000
+      internalID: 3761032925119582257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_16
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1630
+        width: 712
+        height: 1278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfd1882ef6e1010800000000000000
+      internalID: 1161488772645124899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_17
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1651
+        width: 712
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd634310588e7910800000000000000
+      internalID: 1837055575515688414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_18
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1630
+        width: 716
+        height: 1330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce026a13922f4fd50800000000000000
+      internalID: 6770302398585250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_19
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 1633
+        width: 779
+        height: 1327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5d0bb3afff04b0800000000000000
+      internalID: -5471873943548896602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_20
+      rect:
+        serializedVersion: 2
+        x: 5493
+        y: 1627
+        width: 716
+        height: 1330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb4125d332d6680800000000000000
+      internalID: -8760306953888678387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_21
+      rect:
+        serializedVersion: 2
+        x: 6447
+        y: 1654
+        width: 707
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76692c371a3a72670800000000000000
+      internalID: 8513953534394406503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 712
+        height: 1273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849a65ba89b67550800000000000000
+      internalID: 6158313545876018308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_26
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 0
+        width: 709
+        height: 1320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1cca662984b3030800000000000000
+      internalID: 3475451331071492575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_27
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 40
+        width: 712
+        height: 1362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90b0afb48aa9ba0800000000000000
+      internalID: -6081363302539392551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_28
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 0
+        width: 710
+        height: 1476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8f783291e82cd0800000000000000
+      internalID: -2582566368167621692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_29
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 0
+        width: 720
+        height: 1598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf312e7db91ec30800000000000000
+      internalID: 4386958863548808297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_30
+      rect:
+        serializedVersion: 2
+        x: 5483
+        y: 0
+        width: 712
+        height: 1486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8679a95f41e6530800000000000000
+      internalID: 3850037776541509811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation Enemy 1_31
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 47
+        width: 712
+        height: 1362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2bb2c2fa18de70800000000000000
+      internalID: 9140085073699875909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

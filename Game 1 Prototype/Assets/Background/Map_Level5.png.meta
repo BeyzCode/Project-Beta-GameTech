@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: ea7a3eabef19bc5468b0b1e2a0b61bbf
+guid: 28897332c7f599640a52bc8194a5eeef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2087913318683137778
-    second: Map_Level1_0
+      213: -1865286957678198851
+    second: Map_Level5_0
   - first:
-      213: -7661308276818061408
-    second: Map_Level1_1
+      213: 5626990191341649668
+    second: Map_Level5_1
   - first:
-      213: 8694267472448487602
-    second: Map_Level1_2
+      213: 3890626662644086482
+    second: Map_Level5_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -148,64 +148,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Map_Level1_0
+      name: Map_Level5_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 7967
-        height: 4486
+        x: 37
+        y: 0
+        width: 7969
+        height: 4525
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f65ae1e912c9fc10800000000000000
-      internalID: 2087913318683137778
+      spriteID: dbffb6b056b2d16e0800000000000000
+      internalID: -1865286957678198851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_Level1_1
+      name: Map_Level5_1
       rect:
         serializedVersion: 2
-        x: 8453
-        y: 20
-        width: 7945
-        height: 4482
+        x: 8342
+        y: 0
+        width: 7964
+        height: 4525
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a7df7da6b09da590800000000000000
-      internalID: -7661308276818061408
+      spriteID: 40fb68514c5171e40800000000000000
+      internalID: 5626990191341649668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_Level1_2
+      name: Map_Level5_2
       rect:
         serializedVersion: 2
-        x: 16866
-        y: 16
-        width: 7967
-        height: 4486
+        x: 16566
+        y: 0
+        width: 7968
+        height: 4525
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b08685b33e38a870800000000000000
-      internalID: 8694267472448487602
+      spriteID: 2d6709416584ef530800000000000000
+      internalID: 3890626662644086482
       vertices: []
       indices: 
       edges: []

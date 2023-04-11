@@ -45,3 +45,6 @@ TagManager:
   - name: MC
     uniqueID: 3991920879
     locked: 0
+  - name: Enemy
+    uniqueID: 2337541005
+    locked: 0
