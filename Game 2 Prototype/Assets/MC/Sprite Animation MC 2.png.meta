@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 09efff396225aa24296132dc8d8acf64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7112190400807976208
+    second: Sprite Animation MC 2_14
+  - first:
+      213: -8571782126404839064
+    second: Sprite Animation MC 2_15
+  - first:
+      213: -371918337260840175
+    second: Sprite Animation MC 2_16
+  - first:
+      213: 2061590542757325625
+    second: Sprite Animation MC 2_17
+  - first:
+      213: -7458966738376774807
+    second: Sprite Animation MC 2_18
+  - first:
+      213: 6083645706485727540
+    second: Sprite Animation MC 2_19
+  - first:
+      213: -9197726763728864114
+    second: Sprite Animation MC 2_20
+  - first:
+      213: -5191373490108790332
+    second: Sprite Animation MC 2_21
+  - first:
+      213: 1713605681898292114
+    second: Sprite Animation MC 2_22
+  - first:
+      213: 5757857603169109205
+    second: Sprite Animation MC 2_23
+  - first:
+      213: 6077679424882941847
+    second: Sprite Animation MC 2_24
+  - first:
+      213: 530798321374538947
+    second: Sprite Animation MC 2_25
+  - first:
+      213: 153794909522182664
+    second: Sprite Animation MC 2_26
+  - first:
+      213: 2591374942318042985
+    second: Sprite Animation MC 2_27
+  - first:
+      213: 3665327398367230477
+    second: Sprite Animation MC 2_28
+  - first:
+      213: -5597184482868207966
+    second: Sprite Animation MC 2_29
+  - first:
+      213: 8136382583541456600
+    second: Sprite Animation MC 2_30
+  - first:
+      213: -3874338237816325659
+    second: Sprite Animation MC 2_31
+  - first:
+      213: -2854681063688089122
+    second: Sprite Animation MC 2_32
+  - first:
+      213: -8228432903126113553
+    second: Sprite Animation MC 2_33
+  - first:
+      213: 2436853722438143309
+    second: Sprite Animation MC 2_34
+  - first:
+      213: -7140797619867469457
+    second: Sprite Animation MC 2_35
+  - first:
+      213: 7909951120327739288
+    second: Sprite Animation MC 2_36
+  - first:
+      213: -2487564185502154525
+    second: Sprite Animation MC 2_37
+  - first:
+      213: 307474402521830321
+    second: Sprite Animation MC 2_38
+  - first:
+      213: 7692589866745568509
+    second: Sprite Animation MC 2_39
+  - first:
+      213: 1192296794866344687
+    second: Sprite Animation MC 2_40
+  - first:
+      213: -1185586439407912885
+    second: Sprite Animation MC 2_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3663
+        width: 517
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d3a1fcc7393b260800000000000000
+      internalID: 7112190400807976208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3598
+        width: 519
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d89f3299ea0980800000000000000
+      internalID: -8571782126404839064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_16
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 3598
+        width: 518
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1d162e3ea6daf0800000000000000
+      internalID: -371918337260840175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_17
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 3598
+        width: 518
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bea550dad3c9c10800000000000000
+      internalID: 2061590542757325625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_18
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 3598
+        width: 518
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b299f454d6c7890800000000000000
+      internalID: -7458966738376774807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_19
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 3616
+        width: 518
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431896a99837d6450800000000000000
+      internalID: 6083645706485727540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_20
+      rect:
+        serializedVersion: 2
+        x: 5363
+        y: 3652
+        width: 542
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c76d27d3c1b5080800000000000000
+      internalID: -9197726763728864114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2405
+        width: 513
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c98fa9d05984f7b0800000000000000
+      internalID: -5191373490108790332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2401
+        width: 517
+        height: 1107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29383a2e943f7c710800000000000000
+      internalID: 1713605681898292114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_23
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2402
+        width: 518
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44d20dbf408ef40800000000000000
+      internalID: 5757857603169109205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_24
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2402
+        width: 518
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f19da6c31485450800000000000000
+      internalID: 6077679424882941847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_25
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2405
+        width: 519
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc27e0d246cd5700800000000000000
+      internalID: 530798321374538947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_26
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 2398
+        width: 519
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024556c7a3622200800000000000000
+      internalID: 153794909522182664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_27
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 2401
+        width: 520
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f17b4c7c966f320800000000000000
+      internalID: 2591374942318042985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 521
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7f2d59dbddd230800000000000000
+      internalID: 3665327398367230477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_29
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1227
+        width: 522
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aedf443e5ec252b0800000000000000
+      internalID: -5597184482868207966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_30
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1223
+        width: 520
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ded9a0f9dc3ae070800000000000000
+      internalID: 8136382583541456600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_31
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1220
+        width: 522
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9be3b56e59b3ac0800000000000000
+      internalID: -3874338237816325659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_32
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 1223
+        width: 522
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed156d382b22268d0800000000000000
+      internalID: -2854681063688089122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_33
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 1223
+        width: 518
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22807eedbbecd80800000000000000
+      internalID: -8228432903126113553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_34
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 1220
+        width: 521
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d838fac8171d120800000000000000
+      internalID: 2436853722438143309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 524
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6938d6f56ac6ec90800000000000000
+      internalID: -7140797619867469457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_36
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 519
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89786dd92aac5cd60800000000000000
+      internalID: 7909951120327739288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_37
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 522
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0092f8d856a7dd0800000000000000
+      internalID: -2487564185502154525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_38
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 0
+        width: 521
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d6db075e544400800000000000000
+      internalID: 307474402521830321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_39
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 0
+        width: 519
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc932a0ab191ca60800000000000000
+      internalID: 7692589866745568509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_40
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 2
+        width: 523
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe268dc2e93eb8010800000000000000
+      internalID: 1192296794866344687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Animation MC 2_41
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 0
+        width: 517
+        height: 1115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4832943a63fb8fe0800000000000000
+      internalID: -1185586439407912885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
