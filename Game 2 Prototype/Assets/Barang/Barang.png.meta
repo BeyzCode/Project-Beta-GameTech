@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 072d5c592b232c3419b02a3b576b700d
+guid: 5850b10c88cafc046a8341a8cc4d438b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8156649758215394720
-    second: Map_Perabot_0
+      213: -8012043292516183619
+    second: Barang_2
   - first:
-      213: 1247119863278744647
-    second: Map_Perabot_1
+      213: 1794367851575361454
+    second: Barang_3
   - first:
-      213: 1614876564626412189
-    second: Map_Perabot_2
+      213: -1374083798143829127
+    second: Barang_4
   - first:
-      213: -1209708767520380796
-    second: Map_Perabot_3
+      213: 605692453671994371
+    second: Barang_5
   - first:
-      213: 3992458241282909966
-    second: Map_Perabot_4
+      213: -8715752556776496667
+    second: Barang_6
   - first:
-      213: -3862344637399280273
-    second: Map_Perabot_5
+      213: 1319218190706650120
+    second: Barang_7
   - first:
-      213: 6438740450090529243
-    second: Map_Perabot_6
+      213: 4684224514743105102
+    second: Barang_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -136,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Map_Perabot_0
+      name: Barang_0
       rect:
         serializedVersion: 2
-        x: 310
-        y: 2380
-        width: 548
-        height: 420
+        x: 1027
+        y: 2128
+        width: 216
+        height: 227
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06aab4cb242cdce80800000000000000
-      internalID: -8156649758215394720
+      spriteID: 9e4b0f25da99fbef0800000000000000
+      internalID: -90184497824221975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_Perabot_1
+      name: Barang_1
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 2338
-        width: 369
-        height: 640
+        x: 1378
+        y: 2147
+        width: 228
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744301b78e8ae4110800000000000000
-      internalID: 1247119863278744647
+      spriteID: df8b8597d6cfb1670800000000000000
+      internalID: 8510673467964176637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_Perabot_2
+      name: Barang_2
       rect:
         serializedVersion: 2
-        x: 1705
-        y: 2328
-        width: 699
-        height: 1028
+        x: 1763
+        y: 2155
+        width: 185
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9219a6fda1396610800000000000000
-      internalID: 1614876564626412189
+      spriteID: db1958833118fc090800000000000000
+      internalID: -8012043292516183619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Map_Perabot_3
+      name: Barang_3
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2151
+        width: 171
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb785dd00e6e810800000000000000
+      internalID: 1794367851575361454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barang_4
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 2117
+        width: 293
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7408d0164eece0800000000000000
+      internalID: -1374083798143829127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barang_5
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2167
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3040148d31ad76800800000000000000
+      internalID: 605692453671994371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barang_6
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 604
+        width: 490
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e162274a3d6b0780800000000000000
+      internalID: -8715752556776496667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barang_7
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 559
+        width: 470
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cad4674fdce4210800000000000000
+      internalID: 1319218190706650120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barang_8
       rect:
         serializedVersion: 2
         x: 2643
-        y: 2689
-        width: 341
-        height: 665
+        y: 528
+        width: 334
+        height: 398
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,71 +318,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 488a5460940463fe0800000000000000
-      internalID: -1209708767520380796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_Perabot_4
-      rect:
-        serializedVersion: 2
-        x: 3254
-        y: 2619
-        width: 743
-        height: 714
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e07af341e9f086730800000000000000
-      internalID: 3992458241282909966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_Perabot_5
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 708
-        width: 355
-        height: 1194
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f655eaf0402366ac0800000000000000
-      internalID: -3862344637399280273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map_Perabot_6
-      rect:
-        serializedVersion: 2
-        x: 1252
-        y: 657
-        width: 815
-        height: 1406
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1b59053500b5950800000000000000
-      internalID: 6438740450090529243
+      spriteID: e467079c065b10140800000000000000
+      internalID: 4684224514743105102
       vertices: []
       indices: 
       edges: []
