@@ -11,9 +11,19 @@ public class MainMenu : MonoBehaviour
     SceneManager.LoadScene("LevelMenu");
    }
 
+   public void sound()
+   {
+    GameObject.Find("Sfx Click button").GetComponent<AudioSource>().Play();
+   }
+
    public void exit()
    {
     Application.Quit();
     Debug.Log("Game Ended");
+   }
+
+   public void Story_Play()
+   {
+      SceneManager.LoadScene("Story");
    }
 }

@@ -37,4 +37,11 @@ public class WinSystem : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    public void ToEnding()
+    {
+        WinMenu.SetActive(false);
+        SceneManager.LoadScene("Ending");
+        Time.timeScale = 1f;
+    }
+
 }

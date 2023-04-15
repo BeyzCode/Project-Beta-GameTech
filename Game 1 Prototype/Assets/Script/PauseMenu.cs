@@ -21,6 +21,11 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    public void sound()
+   {
+    GameObject.Find("Sfx Click button").GetComponent<AudioSource>().Play();
+   }
+
     public void home()
     {
         SceneManager.LoadScene("MainMenu");

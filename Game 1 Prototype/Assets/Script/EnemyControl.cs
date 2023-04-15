@@ -9,13 +9,17 @@ public class EnemyControl : MonoBehaviour
     private Animator anim;
     private int MoveSpeed, Jump;
     private bool MoveRight;
+    public GameObject Player, Enemy;
+    public float speed;
+
+    private float distance;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        MoveSpeed = 4;
-        Jump = 8;
+        //MoveSpeed = 3;
+        Jump = 5;
         StartCoroutine(Right());
     }
 
@@ -32,7 +36,7 @@ public class EnemyControl : MonoBehaviour
 
     IEnumerator Right()
     {
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1.5f);
         MoveRight = true;
     }
 
@@ -40,17 +44,18 @@ public class EnemyControl : MonoBehaviour
     {
         if(MoveRight)
         {
-            transform.Translate(Vector2.right * Time.deltaTime * MoveSpeed);
+            distance = Vector2.Distance(transform.position, Player.transform.position);
+            Vector2 direction = Player.transform.position - transform.position;
+            transform.position = Vector2.MoveTowards(this.transform.position, Player.transform.position, speed * Time.deltaTime);
             anim.SetBool("Enemy_Run",true);
         }
     }
 
-    // private void OnTriggerEnter2D(Collider2D col)
-    // {
-    //     if(col.tag == "Enemy")
-    //     {
-    //         GameOverMenu.SetActive(true);
-    //         Time.timeScale = 0f;
-    //     }
-    // }
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if(col.tag == "Finish")
+        {
+            Enemy.SetActive(false);
+        }
+    }
 }
