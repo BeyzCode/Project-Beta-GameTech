@@ -20,8 +20,8 @@ public class MCControl : MonoBehaviour
         Time.timeScale = 1f;
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        MoveSpeed = 4;
-        Jump = 5;
+        MoveSpeed = 3;
+        Jump = 4;
         StartCoroutine(Right());
         sceneIndex = SceneManager.GetActiveScene().buildIndex;
         levelPassed = PlayerPrefs.GetInt("LevelPassed");

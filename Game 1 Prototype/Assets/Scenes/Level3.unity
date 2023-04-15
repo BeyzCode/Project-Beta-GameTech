@@ -3421,7 +3421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 1008068508}
   Enemy: {fileID: 1015178278}
-  speed: 3.95
+  speed: 2.95
 --- !u!50 &181120578
 Rigidbody2D:
   serializedVersion: 4
@@ -13024,7 +13024,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 1008068508}
   Enemy: {fileID: 1015178278}
-  speed: 3.95
+  speed: 2.95
 --- !u!60 &887230420
 PolygonCollider2D:
   m_ObjectHideFlags: 0

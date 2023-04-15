@@ -1282,7 +1282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 232975014}
   Enemy: {fileID: 196821229}
-  speed: 3.95
+  speed: 2.95
 --- !u!50 &120587772
 Rigidbody2D:
   serializedVersion: 4
@@ -4170,7 +4170,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710645912}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.36, y: -2.74, z: 0.5522}
+  m_LocalPosition: {x: 2.36, y: -2.85, z: 0.5522}
   m_LocalScale: {x: 0.13075334, y: 0.13075334, z: 0.13075334}
   m_Children: []
   m_Father: {fileID: 918885131}
@@ -14838,7 +14838,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 232975014}
   Enemy: {fileID: 196821229}
-  speed: 3.95
+  speed: 2.95
 --- !u!60 &2102262568
 PolygonCollider2D:
   m_ObjectHideFlags: 0
