@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: e9fddfc3fd849934889de67e8365a0e7
+guid: a5674cfa9a55ee54eb8bf2b2899f8663
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2140308936421727118
-    second: Select level menu konsep_0
+      213: -3812368410076571781
+    second: Obstacle layangan_0
+  - first:
+      213: 7779471795634757333
+    second: Obstacle layangan_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -130,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Select level menu konsep_0
+      name: Obstacle layangan_0
       rect:
         serializedVersion: 2
-        x: 187
-        y: 10
-        width: 599
-        height: 2940
+        x: 0
+        y: 0
+        width: 600
+        height: 1469
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,8 +147,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2742df6bc581c42e0800000000000000
-      internalID: -2140308936421727118
+      spriteID: b77177c312fb71bc0800000000000000
+      internalID: -3812368410076571781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle layangan_1
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1422
+        width: 1284
+        height: 1411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dedaf6716c36fb60800000000000000
+      internalID: 7779471795634757333
       vertices: []
       indices: 
       edges: []
