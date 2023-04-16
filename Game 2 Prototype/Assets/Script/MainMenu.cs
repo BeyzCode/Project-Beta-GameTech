@@ -19,4 +19,9 @@ public class MainMenu : MonoBehaviour
         GameObject.Find("Audio_MainMenu").GetComponent<AudioSource>().Stop();
         Debug.Log("Game Ended");
     }
+
+    public void sound()
+    {
+        GameObject.Find("Sfx Click button 22").GetComponent<AudioSource>().Play();
+    }
 }
