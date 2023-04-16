@@ -8,12 +8,15 @@ public class MainMenu : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("scene1");
+        GameObject.Find("Audio_MainMenu").GetComponent<AudioSource>().Stop();
+        SceneManager.LoadScene("scene2");
+        Time.timeScale = 1f;
     }
 
     public void Exit()
     {
         Application.Quit();
+        GameObject.Find("Audio_MainMenu").GetComponent<AudioSource>().Stop();
         Debug.Log("Game Ended");
     }
 }
