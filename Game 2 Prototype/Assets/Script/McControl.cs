@@ -15,7 +15,7 @@ public class McControl : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spi = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
-        MoveSpeed = 2;
+        MoveSpeed = 8;
         MoveRight = false;
         MoveLeft = false;
         MoveUp = false;

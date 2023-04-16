@@ -6,6 +6,22 @@ TagManager:
   tags:
   - Item
   - Black
+  - Item_Atari
+  - Item_GameBoy
+  - Item_Sonic
+  - Item_Mario
+  - Item_PacMan
+  - Item_Tetris
+  - Item_Pokemon
+  - Item_CrazyTaxi
+  - Black_Atari
+  - Black_GameBoy
+  - Black_Sonic
+  - Black_Mario
+  - Black_PackMan
+  - Black_Tetris
+  - Black_Pokemon
+  - Black_CrazyTaxi
   layers:
   - Default
   - TransparentFX
